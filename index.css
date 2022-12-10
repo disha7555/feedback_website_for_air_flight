@@ -1,0 +1,39 @@
+*{
+    margin-top:17px;
+    margin-left:20px;
+    color: #000080;
+    font-size: 19px;
+}
+img{
+    margin-top: 7px;
+}
+body{
+    overflow-y:scroll;
+}
+h1{
+    font-size:50px;
+    margin-left:300px;
+    color:#000080 ;
+}
+#g{
+    margin-top:115px;
+}
+#g1{
+    margin-top:101px;
+    
+}
+#g2{
+    margin-top:135px;
+    
+}
+#ages{
+    margin-left:225px;
+    margin-top:31px;
+}
+#desc{
+    margin-left:230px;
+}
+#d1,#d2,#d3,#d4,#d5
+{
+    margin-left:210px;
+}
